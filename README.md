@@ -1,5 +1,5 @@
 # MCUUID
-**:warning: Please do not make suggestion in the issues section! If you want to suggest something then [tweet me](https://twitter.com/MCUUID/)**
+**:warning: Please do not make suggestions in the issues section! If you want to suggest something then [tweet me](https://twitter.com/MCUUID/)**
 
 ## Introduction
 Welcome to the MCUUID API, the API is built to be extremely simple and easily integrated.
