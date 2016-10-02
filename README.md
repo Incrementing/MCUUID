@@ -7,8 +7,6 @@ Issues may be reported [here](https://github.com/Incrementing/MCUUID/issues)!
 Please note that HTTPS will cause a hit on response times so you may want to make HTTP requests if HTTPS doesn't matter to you.
 
 ## API Limits
-*Look ups made using the "Minecraft Profile Lookup" bar are not rate limited! only API requests (eg api.mcuuid.com/...) are limited.*
-
 We limit every IP address to 200 requests a minute.
 Rate limits are enforced to encourage users to make a cache of their requests to lower the stress that is put on our servers. 
 JSON requests will return two variables `request_count` (the number of requests in the last minute) and `max_requests` (the max requests allowed in one minute).
