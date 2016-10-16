@@ -28,7 +28,7 @@ The same two variables are also returned with raw TXT requests but as HTTP heade
 `https://api.mcuuid.com/txt/names/7944c9ef-a57b-4e4f-b4b3-531d92f579da`<br>
 
 ### Minecraft Server Ping (and Query).
-`https://api.mcuuid.com/json/server/mc.arespvp.com:25565`<br>
+`https://api.mcuuid.com/json/server/ip:game_port:query_port`<br>
 
 ## License
 The code examples are licensed under the GNU General Public License. [GNU](LICENSE)<br>
