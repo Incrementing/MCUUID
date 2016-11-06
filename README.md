@@ -30,6 +30,10 @@ The same two variables are also returned with raw TXT requests but as HTTP heade
 ### Minecraft Server Ping (and Query).
 `https://api.mcuuid.com/json/server/ip:game_port:query_port`<br>
 
+### Minecraft Server Blacklist Check
+`https://api.mcuuid.com/json/blacklist/*.playmc.mx`<br>
+`https://api.mcuuid.com/txt/blacklist/*.playmc.mx`<br>
+
 ## License
 The code examples are licensed under the GNU General Public License. [GNU](LICENSE)<br>
 The MCUUID website and it's APIs are **not** open-source.<br>
