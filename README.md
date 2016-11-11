@@ -31,8 +31,8 @@ The same two variables are also returned with raw TXT requests but as HTTP heade
 `https://api.mcuuid.com/json/server/ip:game_port:query_port`<br>
 
 ### Minecraft Server Blacklist Check
-`https://api.mcuuid.com/json/blacklist/*.playmc.mx`<br>
-`https://api.mcuuid.com/txt/blacklist/*.playmc.mx`<br>
+`https://api.mcuuid.com/json/blacklist/*.example.com`<br>
+`https://api.mcuuid.com/txt/blacklist/*.example.com`<br>
 
 ## License
 The code examples are licensed under the GNU General Public License. [GNU](LICENSE)<br>
