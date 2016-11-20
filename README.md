@@ -1,3 +1,4 @@
+
 # MCUUID
 **:warning: Please do not make suggestions in the issues section! If you want to suggest something then [tweet me](https://twitter.com/MCUUID/)**
 
@@ -5,6 +6,13 @@
 Welcome to the MCUUID API, the API is built to be extremely simple and easily integrated.
 Issues may be reported [here](https://github.com/Incrementing/MCUUID/issues)!
 Please note that HTTPS will cause a hit on response times so you may want to make HTTP requests if HTTPS doesn't matter to you.
+
+## To-do List
+- [X] Ban requests that do not provide a user-agent
+- [ ] Fix the problem with skins
+- [ ] Fix the problem with the server api
+- [ ] Add the "misc" APIs
+- [ ] Add link shortener to "misc" APIs
 
 ## API Limits
 We limit every IP address to 200 requests a minute.
