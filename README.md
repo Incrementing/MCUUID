@@ -10,7 +10,7 @@ Please note that HTTPS will cause a hit on response times so you may want to mak
 
 ## To-do List
 - [X] Ban requests that do not provide a user-agent
-- [ ] Fix the [issue](https://github.com/Incrementing/MCUUID/issues/1) with skins 
+- [X] Fix the [issue](https://github.com/Incrementing/MCUUID/issues/1) with skins 
 - [ ] Fix the [issue](https://github.com/Incrementing/MCUUID/issues/3) with the server api
 - [ ] Add the "misc" APIs
 - [ ] Add link shortener to "misc" APIs
