@@ -1,3 +1,5 @@
+:warning: The MCUUID service in the form detailed below is no-longer available. I will be working on a Go powered API in my spare time.
+
 ![Logo](https://i.imgur.com/kxYaAEB.png)
 
 # MCUUID
