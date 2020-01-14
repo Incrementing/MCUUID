@@ -1,5 +1,3 @@
-**:exclamation: Project has been moved to [AresEntertainmentLtd/MCUUID](https://github.com/AresEntertainmentLtd/MCUUID)**
-
 ![Logo](https://i.imgur.com/kxYaAEB.png)
 
 # MCUUID
